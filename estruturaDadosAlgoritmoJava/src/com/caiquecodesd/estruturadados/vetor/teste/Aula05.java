@@ -15,7 +15,7 @@ public class Aula05 {
 		vetor.adiciona("Elemento 5");
 		
 		System.out.println(vetor.busca(18));
-		
+	
 	}
 	
 }
