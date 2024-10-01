@@ -17,7 +17,7 @@ public class aula04 {
 		System.out.println(vetor.tamanho());
 		
 		System.out.println(vetor.toString());
-		
+		 
 	}
 	
 }
