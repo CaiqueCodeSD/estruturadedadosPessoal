@@ -9,6 +9,10 @@ public class Aula11 {
         Lista<String> vetor = new Lista<String>(1);
 
         vetor.adiciona("Guts");
+        vetor.adiciona("Gandalf");
+        vetor.adiciona("Bilbo");
+
+        System.out.println(vetor);
         
     }
 
