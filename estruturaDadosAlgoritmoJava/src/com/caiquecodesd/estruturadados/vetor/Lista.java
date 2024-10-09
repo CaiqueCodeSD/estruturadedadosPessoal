@@ -14,6 +14,10 @@ public class Lista<T> {
         this.tamanho = 0;
     }
 
+	public boolean contem(T elemento) {
+		return busca(elemento) > -1;
+	}
+
 	public boolean adiciona(T elemento) {
 
 		this.aumentaCapacidade();
